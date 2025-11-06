@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:contacto@miguelweb.dev">
-    <img src="https://img-shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="[https://img-shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.svgrepo.com/show/521128/email-1.svg)" alt="Email">
   </a>
 </p>
 
