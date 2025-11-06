@@ -7,12 +7,16 @@
 
 <p align="center">
   <a href="mailto:contacto@miguelweb.dev">
-    <img src="[https://img-shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.svgrepo.com/show/521128/email-1.svg)" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+  </picture>
 </p>
 
 <h2 align="center">⚔️ Sobre o Miguel ⚔️</h2>
