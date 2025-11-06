@@ -77,12 +77,16 @@ Sou um estudante de engenharia informática focado em criar soluções tecnológ
 <h2 align="center">💎 Projetos da Coroa 💎</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Projeto OrganizaS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=SocialFlow&theme=tokyonight&hide_border=true" alt="Projeto TreinoS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Projeto Portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=SocialFlow&theme=tokyonight&hide_border=true" alt="Projeto SocialFlow"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
