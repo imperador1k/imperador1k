@@ -1,8 +1,10 @@
+<div align="center">
+
 <h1 align="center">
   👑 Olá, eu sou o imperador1k 👑
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&color=FFFFFF&center=true&width=600&lines=Construindo+meu+império+digital,+um+commit+de+cada+vez.;Desenvolvedor+de+[Sua+Stack+Principal];Apaixonado+por+Tecnologia+e+Inovação." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&color=FFFFFF&center=true&width=600&lines=Construindo+o+meu+império+digital;Sempre+a+aprender+e+a+evoluir;[Adicione+a+sua+Stack+Principal+aqui];Transformando+ideias+em+código." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,26 +14,31 @@
   <a href="mailto:[SEU_EMAIL_AQUI]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  </p>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imperador1k&label=VISUALIZAÇÕES_DO_PERFIL&color=0e75b6&style=flat-square" alt="imperador1k profile views" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="90%" />
 </p>
 
 <h2 align="center">⚔️ Sobre o Imperador ⚔️</h2>
 
-<p align="left">
-Sou um [Desenvolvedor / Estudante de ...] focado em criar soluções tecnológicas que sejam limpas, eficientes e modernas. 
+<p align="center">
+Sou um [Desenvolvedor / Estudante de ...] focado em criar soluções tecnológicas<br>
+que sejam limpas, eficientes e modernas.
 <br><br>
-* 👑 Foco atual: <strong>[Tecnologia/Conceito que está a aprender]</strong>.
-* 🚀 O meu grande objetivo: [O seu objetivo profissional].
-* 💬 Fale comigo sobre: [Tópico que domina, ex: Python, React, Design].
-* 💎 Facto curioso: [Algo interessante sobre si].
+👑 Foco atual: <strong>[Tecnologia/Conceito que está a aprender]</strong>
+<br>
+🚀 O meu grande objetivo: [O seu objetivo profissional]
+<br>
+💬 Fale comigo sobre: [Tópico que domina]
 </p>
 
 <h2 align="center">🛡️ Meu Arsenal Tecnológico 🛡️</h2>
 
-<table width="100%">
+<table width="90%">
   <tr>
     <td align="center" width="33%">
       <strong>Frontend</strong><br><br>
@@ -58,35 +65,42 @@ Sou um [Desenvolvedor / Estudante de ...] focado em criar soluções tecnológic
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="90%" />
+</p>
+
 <h2 align="center">📊 O Meu Império de Contribuições 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imperador1k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imperador1k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" width="48%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperador1k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperador1k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imperador1k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imperador1k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imperador1k&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imperador1k&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Gráfico de Atividade" width="48%"/>
 </p>
 
 <h2 align="center">🏆 Salão de Troféus 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?user=imperador1k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?user=imperador1k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="Troféus do GitHub" />
 </p>
 
 <h2 align="center">💎 Projetos da Coroa 💎</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=[NOME_DO_REPO_1]&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=[NOME_DO_REPO_2]&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=[NOME_DO_REPO_1]&theme=tokyonight&hide_border=true" alt="Projeto 1" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=[NOME_DO_REPO_2]&theme=tokyonight&hide_border=true" alt="Projeto 2" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="90%" />
 </p>
 
 <p align="center">
   Construído com <strong>Markdown</strong> e um pouco de <strong>Magia 👑</strong>
 </p>
+
+</div>
