@@ -74,7 +74,7 @@ Sou um estudante de engenharia informática focado em criar soluções tecnológ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Projeto OrganizaS"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=treinoS&theme=tokyonight&hide_border=true" alt="Projeto TreinoS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=SocialFlow&theme=tokyonight&hide_border=true" alt="Projeto TreinoS"/>
 </p>
 
 <p align="center">
