@@ -73,7 +73,7 @@ Sou um estudante de engenharia informática focado em criar soluções tecnológ
 <h2 align="center">💎 Projetos da Coroa 💎</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=organizaS&theme=tokyonight&hide_border=true" alt="Projeto OrganizaS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=portfolio&theme=tokyonight&hide_border=true" alt="Projeto OrganizaS"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=treinoS&theme=tokyonight&hide_border=true" alt="Projeto TreinoS"/>
 </p>
 
