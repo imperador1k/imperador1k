@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:contacto@miguelweb.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img-shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -59,11 +59,8 @@ Sou um estudante de engenharia informática focado em criar soluções tecnológ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imperador1k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperador1k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imperador1k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
- 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imperador1k&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Gráfico de Atividade" />
 </p>
 
@@ -76,8 +73,8 @@ Sou um estudante de engenharia informática focado em criar soluções tecnológ
 <h2 align="center">💎 Projetos da Coroa 💎</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=organizaS&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=[NOME_DO_REPO_2]&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=organizaS&theme=tokyonight&hide_border=true" alt="Projeto OrganizaS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imperador1k&repo=treinoS&theme=tokyonight&hide_border=true" alt="Projeto TreinoS"/>
 </p>
 
 <p align="center">
