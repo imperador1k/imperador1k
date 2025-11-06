@@ -2,14 +2,11 @@
   👑 Olá, eu sou o imperador1k 👑
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&color=FFFFFF&center=true&width=600&lines=Construindo+meu+império+digital,+um+commit+de+cada+vez.;Desenvolvedor+de+[Sua+Stack+Principal];Apaixonado+por+Tecnologia+e+Inovação." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&color=FFFFFF&center=true&width=600&lines=Construindo+meu+império+digital,+um+commit+de+cada+vez.;Desenvolvedor+de+Software;Apaixonado+por+Tecnologia+e+Inovação." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN_AQUI]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[SEU_EMAIL_AQUI]">
+  <a href="mailto:contacto@miguelweb.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   </p>
@@ -18,15 +15,15 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg" width="100%" />
 </p>
 
-<h2 align="center">⚔️ Sobre o Imperador ⚔️</h2>
+<h2 align="center">⚔️ Sobre o Miguel (Ou imperador :«) ⚔️</h2>
 
 <p align="left">
-Sou um [Desenvolvedor / Estudante de ...] focado em criar soluções tecnológicas que sejam limpas, eficientes e modernas. 
+Sou um estudante de engenharia informática focado em criar soluções tecnológicas que sejam limpas, eficientes e modernas. 
 <br><br>
-* 👑 Foco atual: <strong>[Tecnologia/Conceito que está a aprender]</strong>.
-* 🚀 O meu grande objetivo: [O seu objetivo profissional].
-* 💬 Fale comigo sobre: [Tópico que domina, ex: Python, React, Design].
-* 💎 Facto curioso: [Algo interessante sobre si].
+* 👑 Foco atual: <strong>React</strong>.
+* 🚀 O meu grande objetivo: Construir aplicações de nível mundial.
+* 💬 Fale comigo sobre: JavaScript.
+* 💎 Facto curioso: Sou Atleta.
 </p>
 
 <h2 align="center">🛡️ Meu Arsenal Tecnológico 🛡️</h2>
