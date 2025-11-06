@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
-    <img align="center" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/divider/line-dark.svg">
+</picture>
 </p>
 
 <h2 align="center">⚔️ Sobre o Miguel ⚔️</h2>
