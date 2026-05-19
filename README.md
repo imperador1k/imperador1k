@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%" />
+<img src="./assets/banner2.png" style="width:100%; height:220px; object-fit:cover;" alt="Banner"/>
 
 # Miguel Pereira Santos
 
