@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner2.png" style="width:100%; height:220px; object-fit:cover;" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:141e30,50:302b63,100:7F52FF&height=220&section=header&text=Android%20Engineer&fontColor=ffffff&animation=twinkling"/>
 
 # Miguel Pereira Santos
 
@@ -152,13 +152,13 @@ I also volunteer at **Casa das Irmãs Hospitaleiras** — because building impac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imperador1k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imperador1k&theme=tokyonight" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperador1k&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imperador1k&theme=tokyonight" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imperador1k&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imperador1k&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
