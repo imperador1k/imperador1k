@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:050505,25:0C0C0C,55:171717,78:2A2A2A,100:F0B90B&height=270&section=header&text=Backend%20Software%20Engineer&fontColor=FFFFFF&fontSize=46&fontAlignY=50&animation=fadeIn" width="100%" alt="Backend Software Engineer"/>
 
-<br/>
-<br/>
 
-<img src="https://github.com/imperador1k.png" width="128" height="128" alt="Miguel Pereira Santos"/>
-
-<br/>
-<br/>
 
 # Miguel Pereira Santos
 
@@ -100,6 +94,13 @@ const miguel = {
     "Build reliable systems behind products people genuinely want to use."
 };
 ```
+<img
+  src="https://github.com/imperador1k.png"
+  width="110"
+  height="110"
+  alt="Miguel Pereira Santos"
+/>
+
 
 I am a Computer Engineering student and software engineer focused on building a career in **backend engineering**.
 
