@@ -1,6 +1,4 @@
-<div align="center">
-<img src="assets/banner.png" alt="Miguel Pereira Santos — backend engineering and systems banner" width="100%" />
-</div>   
+
  <div align="center">
   <h1>Miguel Pereira Santos</h1>
   <h3>Backend Software Engineer in Training</h3>
@@ -22,6 +20,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F0B90B&center=true&vCenter=true&width=650&lines=Engineering+reliable+software+from+fundamentals+to+production;Learning+backend+systems%2C+one+careful+abstraction+at+a+time;Building+Faro+%C2%B7+Founder+of+Movistrato" alt="Animated introduction: engineering reliable software from fundamentals to production" />
 </p>   
 
+<div align="center">
+<img src="assets/banner.png" alt="Miguel Pereira Santos — backend engineering and systems banner" width="100%" />
+</div>   
 
 ## `whoami`
 
@@ -166,12 +167,45 @@ The practical goal is simple: turn Faro and future projects into credible engine
 ## GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imperador1k&show_icons=true&hide_border=true&bg_color=050505&title_color=F0B90B&icon_color=F0B90B&text_color=EDEDED&ring_color=F0B90B&include_all_commits=true" alt="Miguel's GitHub statistics" />
-</div>   
- <div align="center">
-  <a href="https://github.com/imperador1k">
-    <img src="https://img.shields.io/badge/Explore_my_work-imperador1k-111111?style=flat-square&labelColor=F0B90B&color=111111" alt="Explore Miguel's GitHub work" />
-  </a>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imperador1k&theme=github_dark"
+  height="170"
+  alt="GitHub statistics"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imperador1k&theme=github_dark"
+  height="170"
+  alt="Repository languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imperador1k&theme=github_dark&utcOffset=0"
+  height="170"
+  alt="Most productive commit time"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=imperador1k&theme=dark&hide_border=true&background=050505&ring=F0B90B&fire=F0B90B&currStreakLabel=F0B90B&sideLabels=EDEDED&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub contribution streak"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/imperador1k">
+  <img
+    src="https://img.shields.io/badge/Explore_my_work-imperador1k-111111?style=for-the-badge&labelColor=F0B90B&color=111111"
+    alt="Explore Miguel's GitHub work"
+  />
+</a>
+
 </div>   
 
 
